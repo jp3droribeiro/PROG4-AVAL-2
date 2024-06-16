@@ -3,9 +3,9 @@
 Aplicativo de lista de tarefas (To Do List) usando Flutter e Firebase .
 
 Grupo : 
-João Pedro 
-Mairon
-Matheus
+João Pedro /n
+Mairon /n
+Matheus 
 
 
 
